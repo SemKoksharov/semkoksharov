@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
-# Hi, I'm Semen Koksharov! 👋
+
+## Hi, I'm Semen Koksharov! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SemKoksharov&color=blue)
 
