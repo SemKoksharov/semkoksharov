@@ -2,7 +2,7 @@
 
 ## Hi, I'm Semen Koksharov! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SemKoksharov&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SemKoksharov&color=green)
 
 Junior Backend Developer passionate about technology and music. Currently working on a backend project for a music streaming service.
 
@@ -54,7 +54,7 @@ I am currently working on an educational project to develop the backend for a mu
 ## 🎸 Personal Interests
 
 - Apart from coding, I am deeply interested in music. I enjoy exploring different genres and often indulge in creating my own music compositions.
-- I love travel and adventures
+- I love travel and adventures.
 
 ## 📚 Education
 
