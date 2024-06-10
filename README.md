@@ -39,8 +39,8 @@ I have always been passionate about computers! I successfully completed an inten
 
 ## 🚀 Current Project
 
-![Dev branch of our current project](https://github.com/develhope/Java24-Team4-Spring/tree/dev)
-![My activity in the project](https://github.com/develhope/Java24-Team4-Spring/activity?actor=SemKoksharov)
+## [Dev branch of our current project](https://github.com/develhope/Java24-Team4-Spring/tree/dev)
+## [My activity in the project](https://github.com/develhope/Java24-Team4-Spring/activity?actor=SemKoksharov)
 
 ### **Music Streaming Backend**
 
