@@ -39,6 +39,9 @@ I have always been passionate about computers! I successfully completed an inten
 
 ## 🚀 Current Project
 
+[Dev branch of our current project](https://github.com/develhope/Java24-Team4-Spring/tree/dev)
+[My activity in the project](https://github.com/develhope/Java24-Team4-Spring/activity?actor=SemKoksharov)
+
 ### **Music Streaming Backend**
 
 I am currently working on an educational project to develop the backend for a music streaming service. This project focuses on:
@@ -50,7 +53,8 @@ I am currently working on an educational project to develop the backend for a mu
 
 ## 🎸 Personal Interests
 
-Apart from coding, I am deeply interested in music. I enjoy exploring different genres and often indulge in creating my own music compositions.
+- Apart from coding, I am deeply interested in music. I enjoy exploring different genres and often indulge in creating my own music compositions.
+- I love travel and adventures
 
 ## 📚 Education
 
