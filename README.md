@@ -60,7 +60,7 @@ I am currently working on an educational project to develop the backend for a mu
 
 - **Java Backend Intensive Course** at Develhope (2024, Italy)
 - **General Worker Training** at ACME+ (2023, Italy)
-- **Economia** at UrEP (2009-2011, Russia)
+- **Economia** at Moscow Institute of Humanities and Economics(2009-2011, Russia)
 
 ## 🏅 Soft Skills
 
