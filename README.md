@@ -6,9 +6,6 @@
 
 Junior Backend Developer passionate about technology and music. Currently working on a backend project for a music streaming service.
 
-
-
-
 ## 🛠️ Technical Skills
 
 <p align="left">
@@ -54,23 +51,31 @@ Junior Backend Developer passionate about technology and music. Currently workin
 
 I have always been passionate about computers! I successfully completed an intensive course as a Java back-end developer, where I gained a solid foundation and feel confident in my skills. I am proficient in working with the Spring framework and familiar with application architecture, including REST APIs. I am committed to continuous improvement, attending classes and updating my knowledge regularly. Although I am still refining my teamwork skills, I am motivated to grow in this area and become a collaborative and effective team member.
 
-## 📈 🚀My Repositories
+## 📈 🚀 My Repositories
 
 Welcome to my GitHub profile. Here are some of my repositories and their stats.
+
+**Click on the repository icon to enter the repository page and explore it!**
 
 <table>
   <tr>
     <td>
       <h3>Learn2Code</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=Learn2Code&theme=radical&hide_border=true" alt="Learn2Code Repo Stats">
+      <a href="https://github.com/SemKoksharov/Learn2Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=Learn2Code&theme=radical&hide_border=true" alt="Learn2Code Repo Stats">
+      </a>
     </td>
     <td>
       <h3>Vibes Hub 2</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=vibes-hub-2&theme=radical&hide_border=true" alt="Vibes Hub 2 Repo Stats">
+      <a href="https://github.com/SemKoksharov/vibes-hub-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=vibes-hub-2&theme=radical&hide_border=true" alt="Vibes Hub 2 Repo Stats">
+      </a>
     </td>
     <td>
       <h3>Develhope</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=develhope&theme=radical&hide_border=true" alt="Develhope Repo Stats">
+      <a href="https://github.com/SemKoksharov/develhope">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=develhope&theme=radical&hide_border=true" alt="Develhope Repo Stats">
+      </a>
     </td>
   </tr>
 </table>
@@ -108,7 +113,7 @@ I am currently working on an educational project to develop the backend for a mu
 
 - **Java Backend Intensive Course** at Develhope (2024, Italy)
 - **General Worker Training** at ACME+ (2023, Italy)
-- **Economia** at Moscow Institute of Humanities and Economics(2009-2011, Russia)
+- **Economics** at Moscow Institute of Humanities and Economics(2009-2011, Russia)
 
 ## 🏅 Soft Skills
 
@@ -128,10 +133,11 @@ I am currently working on an educational project to develop the backend for a mu
 
 ## 📫 Contact Me
 
-- 📧 Email: [kokshse196@proton.me](mailto:kokshse196@proton.me)
-- 📱 Phone: +39 320 2696323
-- 📍 Location: Torino, Italy
-- [GitHub](https://github.com/SemKoksharov)
-- [LinkedIn](https://www.linkedin.com/in/SemKoksharov)
+- 📱 +39 320 269 63 23
+- 📍 10144 Torino, Italy
+- 📧 [kokshse196@proton.me](mailto:kokshse196@proton.me)
+- 📦 [GitHub](https://github.com/SemKoksharov)
+- 💼 [LinkedIn](https://www.linkedin.com/in/SemKoksharov)
+
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
