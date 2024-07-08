@@ -54,21 +54,43 @@ Junior Backend Developer passionate about technology and music. Currently workin
 
 I have always been passionate about computers! I successfully completed an intensive course as a Java back-end developer, where I gained a solid foundation and feel confident in my skills. I am proficient in working with the Spring framework and familiar with application architecture, including REST APIs. I am committed to continuous improvement, attending classes and updating my knowledge regularly. Although I am still refining my teamwork skills, I am motivated to grow in this area and become a collaborative and effective team member.
 
-## 📈 GitHub Stats
+## 📈 🚀My Repositories
 
+Welcome to my GitHub profile. Here are some of my repositories and their stats.
 
+<table>
+  <tr>
+    <td>
+      <h3>Learn2Code</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=Learn2Code&theme=radical&hide_border=true" alt="Learn2Code Repo Stats">
+    </td>
+    <td>
+      <h3>Vibes Hub 2</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=vibes-hub-2&theme=radical&hide_border=true" alt="Vibes Hub 2 Repo Stats">
+    </td>
+    <td>
+      <h3>Develhope</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemKoksharov&repo=develhope&theme=radical&hide_border=true" alt="Develhope Repo Stats">
+    </td>
+  </tr>
+</table>
 
+## Personal Statistics 
+(Sometimes it shows strange statistics, I don’t understand why :D In any case, I strive to improve it!)
+<table>
+  <tr>
+    <td>
+      <h3>Commit Statistics</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727" alt="Commit Stats">
+    </td>
+    <td>
+      <h3>Overall Contribution Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Contribution Stats">
+    </td>
+  </tr>
+</table>
 
-![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727)
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-
-## 🚀 Current Project
-
-## [Dev branch of our current project](https://github.com/develhope/Java24-Team4-Spring/tree/dev)
-## [My activity in the project](https://github.com/develhope/Java24-Team4-Spring/activity?actor=SemKoksharov)
-
-### **Music Streaming Backend**
+### **Current project: Music Streaming Backend(Vibeshub2)**
 
 I am currently working on an educational project to develop the backend for a music streaming service. This project focuses on:
 - User authentication and authorization
